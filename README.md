@@ -1,4 +1,4 @@
-node-simple-chainable
+node-simple-chainable [![Build Status](https://travis-ci.org/theporchrat/node-simple-chainable.png?branch=master)](https://travis-ci.org/theporchrat/node-simple-chainable)
 =====================
 
 A small node module for queuing a series of functions one after another. Simple chainable allows you to queue up a
