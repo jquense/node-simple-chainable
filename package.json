@@ -2,9 +2,9 @@
   "name": "simple-chainable",
   "version": "0.0.5",
   "description": "Simple object for creating chainable interfaces",
-  "main": "simpleChain.js",
+  "main": "simple-chain.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js -R spec"
   },
   "keywords": [
     "fluent",
